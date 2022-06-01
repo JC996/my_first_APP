@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/dragon_death1" android:duration="@integer/dragon_death_time" />
+    <item android:drawable="@drawable/dragon_death2" android:duration="@integer/dragon_death_time" />
+    <item android:drawable="@drawable/dragon_death3" android:duration="@integer/dragon_death_time" />
+    <item android:drawable="@drawable/dragon_death4" android:duration="@integer/dragon_death_time" />
+    <item android:drawable="@drawable/dragon_death5" android:duration="@integer/dragon_death_time" />
+</animation-list>

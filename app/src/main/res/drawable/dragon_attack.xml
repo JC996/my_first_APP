@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/dragon_attack1" android:duration="@integer/dragon_attack_time" />
+    <item android:drawable="@drawable/dragon_attack2" android:duration="@integer/dragon_attack_time" />
+    <item android:drawable="@drawable/dragon_attack3" android:duration="@integer/dragon_attack_time" />
+    <item android:drawable="@drawable/dragon_attack4" android:duration="@integer/dragon_attack_time" />
+</animation-list>

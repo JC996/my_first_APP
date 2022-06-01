@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/dragon_fire_attack1" android:duration="@integer/dragon_fire_attack_time" />
+    <item android:drawable="@drawable/dragon_fire_attack2" android:duration="@integer/dragon_fire_attack_time" />
+    <item android:drawable="@drawable/dragon_fire_attack3" android:duration="@integer/dragon_fire_attack_time" />
+    <item android:drawable="@drawable/dragon_fire_attack4" android:duration="@integer/dragon_fire_attack_time" />
+    <item android:drawable="@drawable/dragon_fire_attack5" android:duration="@integer/dragon_fire_attack_time" />
+    <item android:drawable="@drawable/dragon_fire_attack6" android:duration="@integer/dragon_fire_attack_time" />
+</animation-list>

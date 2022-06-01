@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/knight_03__hurt_000" android:duration="@integer/knight_hurt_time" />
+    <item android:drawable="@drawable/knight_03__hurt_001" android:duration="@integer/knight_hurt_time" />
+    <item android:drawable="@drawable/knight_03__hurt_002" android:duration="@integer/knight_hurt_time" />
+    <item android:drawable="@drawable/knight_03__hurt_003" android:duration="@integer/knight_hurt_time" />
+    <item android:drawable="@drawable/knight_03__hurt_005" android:duration="@integer/knight_hurt_time" />
+    <item android:drawable="@drawable/knight_03__hurt_006" android:duration="@integer/knight_hurt_time" />
+    <item android:drawable="@drawable/knight_03__hurt_007" android:duration="@integer/knight_hurt_time" />
+    <item android:drawable="@drawable/knight_03__hurt_008" android:duration="@integer/knight_hurt_time" />
+    <item android:drawable="@drawable/knight_03__hurt_009" android:duration="@integer/knight_hurt_time" />
+</animation-list>

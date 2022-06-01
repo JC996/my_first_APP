@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LowGame</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="victory">恭喜你，你赢了</string>
+    <string name="lose">很遗憾，你输了</string>
+    <string-array name="communication">
+        <item>竟然有人敢挑战我,受死吧</item>
+        <item>哈哈哈，我赢了</item>
+    </string-array>
+</resources>

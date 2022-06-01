@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="dragon_attack_time">250</integer>
+    <integer name="dragon_walk_time">200</integer>
+    <integer name="dragon_idle_time">333</integer>
+    <integer name="dragon_hurt_time">375</integer>
+    <integer name="dragon_fire_attack_time">167</integer>
+    <integer name="dragon_death_time">200</integer>
+    <integer name="knight_attack_time">100</integer>
+    <integer name="knight_die_time">100</integer>
+    <integer name="knight_hurt_time">75</integer>
+    <integer name="knight_jump_time">75</integer>
+    <integer name="knight_idle_time">100</integer>
+    <integer name="knight_run_time">75</integer>
+    <integer name="knight_walk_time">100</integer>
+</resources>

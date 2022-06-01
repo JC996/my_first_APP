@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/knight_03__idle_000" android:duration="@integer/knight_idle_time" />
+    <item android:drawable="@drawable/knight_03__idle_001" android:duration="@integer/knight_idle_time" />
+    <item android:drawable="@drawable/knight_03__idle_002" android:duration="@integer/knight_idle_time" />
+    <item android:drawable="@drawable/knight_03__idle_003" android:duration="@integer/knight_idle_time" />
+    <item android:drawable="@drawable/knight_03__idle_004" android:duration="@integer/knight_idle_time" />
+    <item android:drawable="@drawable/knight_03__idle_005" android:duration="@integer/knight_idle_time" />
+    <item android:drawable="@drawable/knight_03__idle_006" android:duration="@integer/knight_idle_time" />
+    <item android:drawable="@drawable/knight_03__idle_007" android:duration="@integer/knight_idle_time" />
+    <item android:drawable="@drawable/knight_03__idle_008" android:duration="@integer/knight_idle_time" />
+    <item android:drawable="@drawable/knight_03__idle_009" android:duration="@integer/knight_idle_time" />
+</animation-list>
